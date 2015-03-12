@@ -2,7 +2,7 @@
 {id,1426138631}.
 {auto_colormaps,false}.
 {auto_images,false}.
-{colormap,<<"Jacco177.gpl">>}.
+{colormap,<<"Gauche.gpl">>}.
 {image,<<"5-hindu-mark.png">>}.
 {layers,[[{plugin,splash},{mode,normal},{lens,false}],
          [{plugin,xoscillo},{mode,overlay},{lens,false}],
