@@ -1,0 +1,10 @@
+{vsn,4}.
+{id,1426114781}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Carr542.gpl">>}.
+{image,<<"OM.png">>}.
+{layers,[[{plugin,yscanline},{mode,normal},{lens,false}],
+         [{plugin,ripple},{mode,normal},{lens,true}],
+         [{plugin,blur5},{mode,normal},{lens,false}],
+         [{plugin,roscillo},{mode,overlay},{lens,false}]]}.
