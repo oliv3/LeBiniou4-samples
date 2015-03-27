@@ -1,3 +1,0 @@
-{vsn, 4}.
-{id, 1426089346}.
-{inputs, [[{input,input1},{preset,{lebiniou_drv,1426089338}},{alpha,255}]]}.
