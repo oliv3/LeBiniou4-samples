@@ -1,7 +1,0 @@
-{vsn,4}.
-{id,1426139551}.
-{auto_colormaps,false}.
-{auto_images,false}.
-{colormap,<<"Sgg045.gpl">>}.
-{image,<<"EYE.png">>}.
-{layers,[[{plugin,tv_quark},{mode,average},{lens,false}]]}.
