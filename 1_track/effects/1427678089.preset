@@ -1,0 +1,10 @@
+{vsn,4}.
+{id,1427678089}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Rayfil13.gpl">>}.
+{image,<<"cworks.png">>}.
+{layers,[[{plugin,roscillo},{mode,overlay},{lens,false}],
+         [{plugin,blur6},{mode,normal},{lens,false}],
+         [{plugin,spectrum},{mode,overlay},{lens,false}],
+         [{plugin,xgum},{mode,normal},{lens,true}]]}.
