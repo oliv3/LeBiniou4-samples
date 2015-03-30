@@ -1,0 +1,10 @@
+{vsn,4}.
+{id,1427678345}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Injector.gpl">>}.
+{image,<<"Logo_Spiral_Tribe.png">>}.
+{layers,[[{plugin,splash},{mode,normal},{lens,false}],
+         [{plugin,xoscillo_s},{mode,overlay},{lens,false}],
+         [{plugin,xmirror_top},{mode,normal},{lens,false}],
+         [{plugin,blur8},{mode,normal},{lens,false}]]}.
