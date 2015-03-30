@@ -1,0 +1,10 @@
+{vsn,4}.
+{id,1427678227}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Japan.gpl">>}.
+{image,<<"FreeBSD.png">>}.
+{layers,[[{plugin,splash},{mode,normal},{lens,false}],
+         [{plugin,sin2oscillo},{mode,overlay},{lens,false}],
+         [{plugin,blur5},{mode,normal},{lens,false}],
+         [{plugin,scroll_bt},{mode,normal},{lens,false}]]}.
