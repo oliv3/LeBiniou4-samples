@@ -1,0 +1,11 @@
+{vsn,4}.
+{id,1427678826}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Carr464.gpl">>}.
+{image,<<"M_Babylone.png">>}.
+{layers,[[{plugin,splash},{mode,normal},{lens,false}],
+         [{plugin,sin1oscillo},{mode,overlay},{lens,false}],
+         [{plugin,blur5},{mode,normal},{lens,false}],
+         [{plugin,yoscillo_s},{mode,overlay},{lens,false}],
+         [{plugin,emboss},{mode,normal},{lens,true}]]}.
