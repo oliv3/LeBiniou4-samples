@@ -1,0 +1,4 @@
+{vsn, 4}.
+{id, 1427773563}.
+{inputs, [[{input,video},{preset,{lebiniou_ffmpeg,"0333.mp4"}},{alpha,255}],
+          [{input,effects},{preset,{lebiniou_drv,1427773557}},{alpha,184}]]}.

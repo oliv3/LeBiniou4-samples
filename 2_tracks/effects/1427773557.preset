@@ -1,0 +1,10 @@
+{vsn,4}.
+{id,1427773557}.
+{auto_colormaps,false}.
+{auto_images,false}.
+{colormap,<<"Sgg022.gpl">>}.
+{image,<<"SCHWA.png">>}.
+{layers,[[{plugin,splash},{mode,normal},{lens,false}],
+         [{plugin,of_spiral},{mode,overlay},{lens,false}],
+         [{plugin,blur5},{mode,normal},{lens,false}],
+         [{plugin,yscanline},{mode,normal},{lens,false}]]}.
